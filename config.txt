@@ -1,6 +1,6 @@
-token=NTIzMTg5MjczNjU5MTc5MDUy.DvV56Q.wc0w0WUtlOF9_ww44GhfQrMmPKU
-owner=454457140220919818
-prefix=D
-game=#solo_for_ever.
+token=NTM5MDE4OTU5OTcwODkzODQ0.Dy8dVA.HYdSsN3_nrb41tI2tNYF_PSXztQ
+owner=532241661284057119
+prefix=T
+game=@-Mohaaa , Debra#9444 
 stayinchannel=true
 songinstatus=False
